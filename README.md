@@ -1,3 +1,3 @@
 # Simulations
 # # 1 - Lorenz attractor
-![Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorenz_attractor_yb.svg/2048px-Lorenz_attractor_yb.svg.png)
+![Screenshot](https://github.com/tarundhurwe/Simulations/blob/main/images/lorenzRes.jpeg)
